@@ -2,16 +2,17 @@
   "name": "practice",
   "version": "1.0.0",
   "description": "practice module directory",
-  "main": "index.js",
+  "private":true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "build":"webpack",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/demolnau/practice.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "demolnau",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/demolnau/practice/issues"
