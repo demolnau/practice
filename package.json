@@ -4,9 +4,10 @@
   "description": "practice module directory",
   "private":true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"webpack"
   },
-  "build":"webpack",
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/demolnau/practice.git"
